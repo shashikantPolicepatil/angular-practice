@@ -1,0 +1,12 @@
+var frouts;
+frouts = ['mango', 'banana'];
+console.log(frouts);
+var animals;
+animals = ['tiger', 'dog', 'cat'];
+console.log(animals);
+var persons;
+persons = ['Ram', 20, 'Sita', '30'];
+console.log(persons);
+var anyval;
+anyval = ['Ram', 20, 'Sita', '30', true, false];
+console.log(anyval);

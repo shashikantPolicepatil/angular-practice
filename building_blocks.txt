@@ -1,0 +1,18 @@
+components = app state +business logic
+metadata = details about compo and module
+template = presentation logic , view file
+databinding= connection between component+templates
+module = group of directive,compo,pipes
+service= rest call logic 
+dependency injection= injecting services into component to call methods from services
+Directives = to manulpulate dom elements
+pipes = transforming value before displaying
+Routings
+
+npm install @angular/ali -g
+---------
+
+ng new <app_name>
+ng server (4200)
+
+http://localhost:4200
